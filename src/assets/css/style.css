@@ -132,14 +132,14 @@ textarea:focus {
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   font-style: normal;
-  border: 1px solid #ffc600;
+  border: 1px solid #02416b;
   border-radius: 1rem;
-  background: -webkit-gradient(linear, left top, left bottom, from(#ffed26), to(#ffb400));
-  background: linear-gradient(180deg, #ffed26 0%, #ffb400 100%);
-  -webkit-box-shadow: 1px 2px 20px 0px rgba(255, 153, 0, 0.4);
-  box-shadow: 1px 2px 20px 0px rgba(255, 153, 0, 0.4);
+  background: -webkit-gradient(linear, left top, left bottom, from(#3d8ef7), to(#0393e7));
+  background: linear-gradient(180deg, #3d8ef7 0%, #0393e7 100%);
+  -webkit-box-shadow: 1px 2px 20px 0px rgba(4, 79, 190, 0.4);
+  box-shadow: 1px 2px 20px 0px rgba(2, 52, 117, 0.4);
 }
-
+Ы
 .button:hover {
   cursor: pointer;
 }
@@ -340,7 +340,7 @@ textarea:focus {
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   font-style: normal;
-  color: #333333;
+  color: black;
 }
 
 .main h1 span {
@@ -694,6 +694,7 @@ textarea:focus {
   margin-bottom: 8rem;
   font-size: 2.4rem;
   line-height: 1.6;
+  color: #0089cd;
 }
 
 
